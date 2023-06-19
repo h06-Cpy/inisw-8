@@ -1,10 +1,11 @@
 # **Senty Project**
+![KakaoTalk_Photo_2023-06-19-09-51-51](https://github.com/h06-Cpy/inisw-8/assets/106899647/2278412a-0867-4a30-9952-db8959686ac2)
 
 
 
 
-## Team 솔앓이
-- 강지윤, 권중석, 안솔, 조현욱, 황영준
+
+
 
 <p align="center">
 <img width="502" alt="image" src="https://github.com/h06-Cpy/inisw-8/assets/106899647/2bd2c49e-9971-4f32-8fbd-7887935d6829">
