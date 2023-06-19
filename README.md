@@ -16,7 +16,10 @@
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow)](https://huggingface.co/ugiugi)
 
 
-https://wandb.ai/inisw08
+[![wandb](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg)](https://wandb.ai/inisw08)
+
+
+
 
 ## 💻 Web Server
 
