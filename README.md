@@ -12,7 +12,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1KtYeBYy3nYnWO9lgUkJio5tN4t__u_P5/view?usp=sharing)
 
-### Our AI Model List
+- Our AI Model List
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow)](https://huggingface.co/ugiugi)
 
 ## 💻 Web Server
