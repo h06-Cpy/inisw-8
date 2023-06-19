@@ -1,6 +1,8 @@
 # **Senty Project**
 
 
+## Team 솔앓이
+
 
 
 
