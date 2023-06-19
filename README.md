@@ -10,12 +10,13 @@
 
 ## 🤖 AI Modeling
 
+- 코랩으로 한번에 구현해 놓았습니다.!! 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1KtYeBYy3nYnWO9lgUkJio5tN4t__u_P5/view?usp=sharing)
 
-
+- 저희 모델을 huggingface에 로드해놓았습니다.
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow)](https://huggingface.co/ugiugi)
 
-
+- 저희 학습 기록을 wandb에 기록 해두었습니다.
 [![wandb](https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-gradient.svg)](https://wandb.ai/inisw08)
 
 
