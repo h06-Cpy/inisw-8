@@ -12,6 +12,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1KtYeBYy3nYnWO9lgUkJio5tN4t__u_P5/view?usp=sharing)
 
+### Our AI Model List
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models%20on%20Hub-yellow)](https://huggingface.co/ugiugi)
+
 ## 💻 Web Server
 
 [![Web sever github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h06-Cpy/SAReport_back)
