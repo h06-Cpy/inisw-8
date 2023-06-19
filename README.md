@@ -22,3 +22,7 @@
 ## 💹 Frontend
 
 [![Frontend github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h06-Cpy/SAReport_front)
+
+
+
+https://wandb.ai/inisw08
